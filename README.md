@@ -1,5 +1,5 @@
 
-# Final Project - IEOR 4307 (Spring 2017) 
+# Interactive Financial Application: (IEOR 4307) 
 
 ## Webpage
 
