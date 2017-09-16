@@ -1,6 +1,6 @@
 
-# Interactive Financial Application:
-Final Project for IEOR 4307, Spring 2017
+# Financial Application:
+Final Project for IEOR 4307 (Applied Statistical Models in OR), Spring 2017
 
 ## Webpage
 The working financial application is available [online](http://35.185.101.230:5050/) once the programming is runing. In addition, the financial application can be downloaded locally from Github and run in RStudio. 
