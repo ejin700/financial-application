@@ -1,5 +1,5 @@
 
-# Financial Application:
+# Financial Application for Stock Data
 Final Project for IEOR 4307 (Applied Statistical Models in OR), Spring 2017
 
 ## Webpage
